@@ -1,0 +1,52 @@
+[{
+        "url": "https://www.google.com/",
+        "image": "https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png",
+        "title": "Github"
+    },
+    {
+        "url": "https://www.google.com/",
+        "image": "https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin.png",
+        "title": "LinkedIn"
+    },
+    {
+        "url": "https://www.google.com/",
+        "image": "https://img.icons8.com/ios-glyphs/30/FFFFFF/discord-logo.png",
+        "title": "Discord"
+    },
+    {
+        "url": "https://www.google.com/",
+        "image": "https://img.icons8.com/ios-glyphs/30/FFFFFF/tiktok.png",
+        "title": "Tiktok"
+    },
+    {
+        "url": "https://www.google.com/",
+        "image": "https://img.icons8.com/ios-glyphs/30/FFFFFF/instagram-new.png",
+        "title": "Instagram"
+    },
+    {
+        "url": "https://www.google.com/",
+        "image": "https://img.icons8.com/sf-regular-filled/48/FFFFFF/telegram.png",
+        "title": "Telegram"
+    },
+    {
+        "url": "https://www.google.com/",
+        "image": "https://img.icons8.com/ios-glyphs/30/FFFFFF/twitter--v1.png",
+        "title": "Twitter"
+    },
+    {
+        "url": "https://www.google.com/",
+        "image": "https://img.icons8.com/ios-glyphs/30/FFFFFF/new-post.png",
+        "title": "Email"
+    },
+    {
+        "url": "https://www.google.com/",
+        "image": "https://img.icons8.com/ios-glyphs/30/FFFFFF/medium-logo.png",
+        "title": "Medium"
+    },
+    {
+        "url": "https://www.google.com/",
+        "image": "https://img.icons8.com/ios-glyphs/30/FFFFFF/google-logo.png",
+        "title": "Google Developer Profile"
+    }
+
+]
